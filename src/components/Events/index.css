@@ -1,0 +1,39 @@
+.eventsList-bg-container {
+  background-color: #64748b;
+  font-family: 'Roboto';
+  padding: 25px;
+  width: 51vw;
+}
+
+.title {
+  color: #ffffff;
+}
+
+.eventsItem-bg-cont {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.event-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  color: #323f4b;
+}
+
+.changing-para {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
